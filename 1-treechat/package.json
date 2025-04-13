@@ -2,7 +2,7 @@
   "name": "1-treechat",
   "version": "1.0.0",
   "description": "AI chat web application with multiuser support",
-  "main": "server.js",
+"main": "backend/server.js",
   "scripts": {
     "start": "node server.js",
     "test": "jest",
