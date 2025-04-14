@@ -1,4 +1,4 @@
-Implement the following in this folder
+Implement the following in the folder where this file is.
 
 # app description
 
