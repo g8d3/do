@@ -2,19 +2,19 @@
   "name": "1-treechat",
   "version": "1.0.0",
   "description": "AI chat web application with multiuser support",
-"main": "backend/server.js",
+  "main": "backend/server.js",
   "scripts": {
     "start": "node backend/server.js",
     "test": "jest",
     "playwright": "playwright test"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@testing-library/react": "^13.4.0",
     "@testing-library/jest-dom": "^5.16.5",
-    "playwright": "^1.40.0"
+    "@testing-library/react": "^13.4.0",
+    "express": "^4.21.2",
+    "playwright": "^1.40.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "jest": "^27.4.7"
