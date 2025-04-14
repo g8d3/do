@@ -10,4 +10,4 @@ chats are saved like a tree
 
 # code description
 
-folders for: backend, frontend, automated headed tests using playwright 
+folders for: backend, frontend, automated headed tests using playwright
